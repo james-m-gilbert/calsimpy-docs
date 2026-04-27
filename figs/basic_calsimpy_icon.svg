@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="basic_calsimpy_icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0544998"
+     inkscape:cx="125.65199"
+     inkscape:cy="111.42724"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="3832"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1" />
+    <rect
+       x="92.537465"
+       y="177.02819"
+       width="525.90873"
+       height="85.950289"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#303b96;stroke-width:0.685985;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 119.01947,63.793548 -60.306799,-0.0627 c -2.071418,-0.0022 -4.201464,0.09147 -6.089652,0.943243 -1.888188,0.851776 -3.451707,2.432015 -4.202264,4.362673 -0.427811,1.100457 -0.599331,2.299635 -0.497163,3.475896"
+       id="path1"
+       inkscape:path-effect="#path-effect1"
+       inkscape:original-d="m 119.01947,63.793548 -60.306799,-0.0627 c -13.656681,-0.0142 -9.965739,2.418883 -10.291916,5.305916 -0.194959,1.725609 0.631812,2.556963 -0.497163,3.475896"
+       transform="matrix(0.91881783,0,0,1.0004309,12.184931,-0.05672023)"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="basic_calsimpy_icon.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold Italic';text-align:center;white-space:pre;shape-inside:url(#rect1)"><tspan
+         x="228.03528"
+         y="236.54734"
+         id="tspan2"><tspan
+           style="fill:#333333"
+           id="tspan1">CalSimPy</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#5361cf;stroke-width:0.685985;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 117.83061,63.642177 -59.117939,0.08867 c -2.093919,0.0031 -4.244293,0.05879 -6.178125,0.861791 -0.966915,0.401498 -1.865509,0.981397 -2.589247,1.737922 -0.723738,0.756525 -1.268522,1.691028 -1.524544,2.706203 -0.139929,0.554846 -0.193849,1.131295 -0.159246,1.702467"
+       id="path5"
+       inkscape:path-effect="#path-effect7"
+       inkscape:original-d="m 117.83061,63.642177 -59.117939,0.08867 c -13.656672,0.02048 -9.965739,2.418883 -10.291916,5.305916 -0.194959,1.725609 0.969729,0.783534 -0.159246,1.702467"
+       transform="matrix(0.91881783,0,0,1.0004309,13.690384,1.8250962)"
+       sodipodi:nodetypes="cssc" />
+    <path
+       style="fill:none;stroke:#979dd4;stroke-width:0.685985;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 117.92716,63.730848 H 58.712671 c -1.675284,0 -3.363326,-0.03153 -5.012004,0.265853 -0.824339,0.148692 -1.637501,0.387157 -2.381782,0.77146 -0.744282,0.384303 -1.419624,0.92022 -1.902366,1.604767 -0.553537,0.78494 -0.837428,1.756398 -0.793667,2.715887"
+       id="path7"
+       inkscape:path-effect="#path-effect9"
+       inkscape:original-d="M 117.92716,63.730848 H 58.712671 c -13.65669,0 -8.969975,-0.244953 -9.296152,2.64208 -0.194959,1.725609 0.335311,1.796954 -0.793667,2.715887"
+       transform="matrix(0.91881783,0,0,1.0004309,15.697655,3.4560038)"
+       sodipodi:nodetypes="cssc" />
+  </g>
+</svg>

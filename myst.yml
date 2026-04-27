@@ -1,0 +1,40 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 2f3195f6-9685-411f-8d73-e972780f07ad
+  title: CalSimPy Documentation
+  description: Description and examples for working with the CalSimPy package
+  keywords: [CalSim, CalSim3, C2VSim, CalSimHydro]
+  authors:
+    name: James M. Gilbert
+    id: jmg
+    affiliations: 
+      - id: ucsc
+        institution: University of California, Santa Cruz
+        ror: 03s65by71
+        department: Fisheries Collaborative Program, Institute of Marine Science
+  github: james-m-gilbert/calsimpy-docs
+  license: BSD-3-Clause
+  toc:
+    - file: 00_index.md
+    - title: Part I - CalSimPy Core Functions
+      children:
+        - file: 01_calsimpy_intro.md
+        #- file: 02_calsimpy_basics.md
+    - title: Part II - CalSimHydro
+      children:
+        - file: 03_calsimhydro.md
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  abbreviations:
+    WRESL: Water Resources Simulation Language
+    WRIMS: Water Resource Integrated Modeling System
+    yapydss: Yet Another Python DSS wrapper
+site:
+  template: book-theme
+  options:
+    hide_powered_by: true
+    logo: figs/basic_calsimpy_icon.png
+    footer: "2026 - James Gilbert"
+  # options:
+  #   favicon: favicon.ico
+  #   logo: figs/basic_calsimpy_icon.png
