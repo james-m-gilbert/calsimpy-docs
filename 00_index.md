@@ -14,8 +14,8 @@ I decided to put them in a package to make maintanence, usage, and sharing easie
 I know CalSim modelers can be an opinionated bunch, so I want to be clear that my intent in sharing is not to promote or imply that my approach is "right" or better than other options.
 In fact, the only thing I can confidently guarantee is that **CalSimPy** is *not* universally suitable for any and all CalSim analyses, applications, or use-cases.
 
-Rather, I am making available the tools that I have found useful in case some modeler out their might also find them helpful. 
-By publishing this code, I am also hoping to build on on recent efforts to make CalSim models and modeling tools more open and available.
+Rather, I am publishing the tools that I have found useful in case some modeler out there might also find them helpful. 
+I am also hoping to build on on recent efforts to make CalSim models and modeling tools more open and available.
 I have benefitted in the past from the efforts of others in the CalSim modeling world, so it only makes sense that I contribute back what I can.
 
 I would also like to emphasize that I assembled all of this over years not for the purpose of simply saying I had written the code, but to assist in pursuit of broader aims (CalSim-related analyses of various sorts).
