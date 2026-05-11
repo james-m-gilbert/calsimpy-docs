@@ -11,12 +11,12 @@ A Python package to assist with common CalSim model and data processing tasks
 
 ## Welcome to the *CalSimPy* documentation page
 
-This site includes some documentation for the **CalSimPy** package - a set of functions that can help with accessing, analyzing, and plotting a number of different model components in the [CalSim]](https://water.ca.gov/Library/Modeling-and-Analysis/Central-Valley-models-and-tools/CalSim-3) workflow.
+This site includes some documentation for the **CalSimPy** package - a set of functions that can help with accessing, analyzing, and plotting a number of different model components in the [CalSim](https://water.ca.gov/Library/Modeling-and-Analysis/Central-Valley-models-and-tools/CalSim-3) workflow.
 
 I am writing this documentation in my spare time[^fundingnote], so it is admittedly a work-in-progress. 
 I will attempt to add to this site as the opportunity allows.
 
-If you found this site based on my presentation at the CWEMF meeting in April 2026 and are interested in seeing the slides, you can find a PDF version here {download}`./resources/20260420CWEMF_CalSimPy_Gilbert.pdf`. 
+If you found this site based on my presentation at the CWEMF meeting in April 2026 and are interested in seeing the slides, you can find a PDF version here: {download}`./resources/20260420CWEMF_CalSimPy_Gilbert.pdf`. 
 
 [^fundingnote]: I am an entirely grant-funded university employee currently without direct support for documenting, improving, or maintaining this package.
 
