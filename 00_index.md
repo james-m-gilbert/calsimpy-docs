@@ -1,26 +1,36 @@
 ---
 title: CalSimPy
-date: 2026-04-23
+date: 2026-05-10
 authors:
   - name: James M. Gilbert
     affiliations:
       - University of California, Santa Cruz
 ---
 
+A Python package to assist with common CalSim model and data processing tasks
+
+## Welcome to the *CalSimPy* documentation page
+
+This site includes some documentation for the **CalSimPy** package - a set of functions that can help with accessing, analyzing, and plotting a number of different model components in the [CalSim]](https://water.ca.gov/Library/Modeling-and-Analysis/Central-Valley-models-and-tools/CalSim-3) workflow.
+
+I am writing this documentation in my spare time[^fundingnote], so it is admittedly a work-in-progress. 
+I will attempt to add to this site as the opportunity allows.
+
+If you found this site based on my presentation at the CWEMF meeting in April 2026 and are interested in seeing the slides, you can find a PDF version here {download}`./resources/20260420CWEMF_CalSimPy_Gilbert.pdf`. 
+
+[^fundingnote]: I am an entirely grant-funded university employee currently without direct support for documenting, improving, or maintaining this package.
+
 ## Some Important Background Information
 
-The CalSimPy package comprises a collection of scripts and functions that I built in the process of various CalSim-related analyses over the years. 
+I built the contents of **_CalSimPy_** in the process of various CalSim-related analyses over the years. 
 I decided to put them in a package to make maintanence, usage, and sharing easier.
 I know CalSim modelers can be an opinionated bunch, so I want to be clear that my intent in sharing is not to promote or imply that my approach is "right" or better than other options.
-In fact, the only thing I can confidently guarantee is that **CalSimPy** is *not* universally suitable for any and all CalSim analyses, applications, or use-cases.
 
-Rather, I am publishing the tools that I have found useful in case some modeler out there might also find them helpful. 
-I am also hoping to build on on recent efforts to make CalSim models and modeling tools more open and available.
-I have benefitted in the past from the efforts of others in the CalSim modeling world, so it only makes sense that I contribute back what I can.
+In fact, the only thing I can confidently guarantee is that **CalSimPy** is *not* universally suitable for any and all CalSim analyses, applications, or use-cases that you might come up with.
 
-I would also like to emphasize that I assembled all of this over years not for the purpose of simply saying I had written the code, but to assist in pursuit of broader aims (CalSim-related analyses of various sorts).
-That is to say, this code came about as a means to an end, not an end in and of itself.
-
+I am publishing the tools that I have found useful in case some modeler out there might also find them helpful. 
+I am also hoping to build on efforts to make CalSim models and modeling tools more open and available.
+I have benefitted in the past from the work of others in the CalSim modeling world, so it only makes sense that I contribute back what I can.
 
 I'm not a trained software engineer or a professional developer.
 Many parts of the code were assembled at different times for different purposes, often on a short timeline.
@@ -34,7 +44,7 @@ Hopefully, though, this and related efforts from the talented CalSim modeling co
 
 ## Introduction to Basic CalSimPy Concepts
 
-The **CalSimPy** package is organized around modules that are targeted at specific models in the CalSim cinematic universe, including:
+The **_CalSimPy_** package is organized around modules that are targeted at specific models in the "CalSim cinematic universe", including:
 
     - CalSim3
     - CalSimHydro
@@ -63,7 +73,7 @@ It has worked for me pretty well over the last 9 years, but I don't pretend to t
 ## Installing the Package
 
 
-I developed **CalSimPy** in a Python version 3.10.x environment.
+I developed (and presently use) **_CalSimPy_** in a Python version 3.10.x environment.
 I have not tested with other Python versions - for the best luck in getting everything to work, I'd start with a v3.10.x version.
 
 ```{hint} Use a virtual environment
@@ -119,4 +129,5 @@ This is often done through an IDE like VS Code or Spyder or a notebook environme
 References to results will encompass a range of formats, including statements printed to the console (or interpreter) window, variable states or characteristics, generated plots or figures, and data written to files (e.g. CSV or DSS).
 Before proceeding, you should feel comfortable doing all of the above in your selected coding environment.
 
-This is a work in progress - I will start with the basic package and functionality and add more documentation as time and funding support allows. 
+And a reminder - this is a work in progress. 
+I will start with the basic package and functionality and add more documentation as time and funding support allows. 

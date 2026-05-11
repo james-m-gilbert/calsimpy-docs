@@ -29,6 +29,7 @@ project:
     WRESL: Water Resources Simulation Language
     WRIMS: Water Resource Integrated Modeling System
     yapydss: Yet Another Python DSS wrapper
+    CWEMF: California Water and Environmental Modeling Forum
 site:
   template: book-theme
   options:
